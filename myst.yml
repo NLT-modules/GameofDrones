@@ -23,6 +23,7 @@ project:
       children:
         - file: Chapters/H1.md
         - file: Chapters/H2.md
+        - file: Chapters/GoD.md
     
 site:
   template: book-theme
